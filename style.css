@@ -1,0 +1,34 @@
+body {
+  position: relative;
+}
+
+header {
+  height: 70px;
+}
+main {
+  max-width: 800px;
+}
+
+.profile {
+  min-width: 50px;
+  max-width: 180px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+
+.contact > div {
+  padding: 10px;
+}
+
+.contact a {
+  width: 50px;
+  display: block;
+}
+.contact a,
+.contact img {
+  height: 50px;
+  width: 50px;
+  margin: 0 auto;
+  display: block;
+}
