@@ -32,3 +32,12 @@ main {
   margin: 0 auto;
   display: block;
 }
+
+.technologies-images img {
+  height: 50px;
+  width: auto;
+}
+.technologies-images img.center {
+  display: block;
+  margin: 10px auto;
+}
