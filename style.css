@@ -42,8 +42,8 @@ main {
   margin: 10px auto;
 }
 
-.badgeds-images img.center {
-  height: 100px;
+.badges-images img.center {
+  max-height: 120px;
   width: auto;
 }
 
